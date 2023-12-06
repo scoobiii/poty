@@ -1,30 +1,17 @@
-# poty
+Poty - A Jornada de um Programador Indígena
+💾 Uma história inspiradora sobre aprendizado e democratização do conhecimento
 
-#Poty -A Jornada de Sucesso de um Programador Indigena 👨‍👩‍👧‍👦
+A Visão 🎯
+Zeh Sobrinho sempre sonhou em democratizar a programação e trazer a tecnologia para sua comunidade. Ele queria que todos, independente de onde viessem, pudessem aprender a pensar como desenvolvedores.
 
-##Visão Inicial 👀
+O Começo da Jornada 👣
+Saindo de sua aldeia no interior do Brasil, Zeh partiu para a cidade grande em busca de conhecimento. Foram muitas dificuldades no caminho, mas ele nunca desistiu do sonho de usar a tecnologia para impactar sua gente.
 
-Zeh sempre sonhou em ensinar programação para sua aldeia e levar renda extra para sua comunidade. 🏹
+A Descoberta do Poder da Programação 💻
+Após muito estudar sozinho, Zeh descobriu que, em comunidade, podia usar a lógica de programação para resolver problemas reais. Ele percebeu que essa habilidade tinha o poder de transformar vidas e comunidades.
 
-##Começo de Jornada 🚶‍♂️
+Fundando o Poty 👨‍👩‍👧‍👦
+Inspirado, Zeh criou o Poty para levar a magia da programação para todos. Seu objetivo era construir uma plataforma acessível, inclusiva e divertida, onde pessoas de todo tipo pudessem aprender.
 
-Saindo de casa, Zeh partiu para a cidade grande atrás de conhecimento tecnológico. Foram muitas dificuldades no caminho. 🥵
-
-##Descoberta do Poder da Codificação 💻
-
-Após estudar muito, Zeh percebeu que poderia resolver problemas reais com lógica. Essa habilidade pode transformar vidas!
-
-##Fundação do Poty 🤯
-
-Inspirado, Zeh criou o Poty, uma plataforma acessível para que todos possam aprender a programar de forma fácil e divertida.
-
-##Crescimento e Impacto 🌱
-
-Com bastante trabalho e o apoio da comunidade, o Poty alcançou 30ETH de renda indigena per capita. Isso mostra que tecnologia pode promover inclusão.
-
-##Próximos Passos 🚀
-
-Agora Zeh sonha em levar cursos presenciais de programação para outras aldeias e continuar inspirando com sua jornada!
-
-Isso foi salvo no formato Markdown para ser compartilhado no Github. Qualquer dúvida, é só me chamar!
-
+Impactando o Mundo 🌎
+Com o Poty, Zeh já ensinou milhares de pessoas a programar de forma descomplicada. Ele provou que a tecnologia pode sim virar ferramenta de empoderamento para comunidades tradicionais. Sua jornada continua inspirando outros a também sonharem em grande!
